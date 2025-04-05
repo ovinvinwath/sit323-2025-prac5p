@@ -8,5 +8,6 @@ Steps to use this app/ microservice with Docker
 4. Open a terminal and enter "docker-compose build"
 5. Then "docker-compose up"
 6. Access the app via the link in the terminal, or open Docker and you will see the container and image running.
-7. Use "docker-compose down" to close the container.
+7. Follow instructions on the welcome page of app.
+8. Use "docker-compose down" to close the container.
 
